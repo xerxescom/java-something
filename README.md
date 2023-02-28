@@ -1,2 +1,3 @@
 # java-something
-java知识记录
+
+Java知识记录
